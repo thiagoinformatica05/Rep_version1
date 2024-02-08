@@ -1,1 +1,1 @@
-Olá Mundo, Seje bem Vindo No Mundo da Programação
+Olá Mundo, Seja Bem Vindo No Mundo da Programação
